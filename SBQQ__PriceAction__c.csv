@@ -1,0 +1,8 @@
+"Guid","SBQQ__Field__c","SBQQ__Formula__c","SBQQ__Order__c","SBQQ__Rule__c","SBQQ__SourceLookupField__c","SBQQ__SourceVariable__c","SBQQ__TargetObject__c","SBQQ__ValueField__c","SBQQ__Value__c"
+05b4c8f8-701b-4e1d-81eb-1c48cb3375c9,Discount (%),"#N/A","#N/A",66273246-3345-4d92-a9ff-e4749ebfab61,"#N/A","#N/A",Product Option,"#N/A",1
+9e8631b5-2c39-4e75-8797-90f5867064a4,ApprovalLevel__c,"IF( if(SBQQ__RegularPrice__c<> 0, 1 - ( SBQQ__CustomerPrice__c / SBQQ__RegularPrice__c ), null) >=  SBQQ__Product__r.Approval_Threshold__c*3, 3, 
+
+IF( if(SBQQ__RegularPrice__c<> 0, 1 - ( SBQQ__CustomerPrice__c / SBQQ__RegularPrice__c ), null) >=  SBQQ__Product__r.Approval_Threshold__c*2, 2,
+ 
+IF( if(SBQQ__RegularPrice__c<> 0, 1 - ( SBQQ__CustomerPrice__c / SBQQ__RegularPrice__c ), null) >=  SBQQ__Product__r.Approval_Threshold__c*1, 1,0)))",1.0,aaed9af3-61e5-4b1e-81d5-230308d3b6ee,"#N/A","#N/A",Quote Line,"#N/A","#N/A"
+d437f2ee-178e-4760-b125-bee24292ebc3,Unit Price,"#N/A","#N/A",8d365d34-ed31-4945-8a2f-9b8892265b8d,"#N/A","#N/A",Product Option,"#N/A",100

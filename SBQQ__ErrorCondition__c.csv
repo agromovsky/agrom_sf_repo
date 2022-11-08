@@ -1,0 +1,7 @@
+"Guid","SBQQ__FilterType__c","SBQQ__FilterValue__c","SBQQ__FilterVariable__c","SBQQ__Index__c","SBQQ__Operator__c","SBQQ__Rule__c","SBQQ__TestedAttribute__c","SBQQ__TestedField__c","SBQQ__TestedObject__c","SBQQ__TestedVariable__c"
+508bad5e-dc2b-4cb1-b173-97f3586403f0,Value,0,"#N/A","#N/A",equals,93bf766a-4e04-4877-8054-8d9326130a6e,"#N/A","#N/A","#N/A",b9f61d11-1995-4b87-9c1b-140340005b42
+7dacc9b5-1fb4-40ee-b1a8-83ecfa8f7f83,Value,0,"#N/A","#N/A",greater than,93bf766a-4e04-4877-8054-8d9326130a6e,"#N/A","#N/A","#N/A",20fe8256-72c6-4542-867f-4cb71c139d52
+94b0d6ec-ea00-4e41-b57f-3e449c4c4b93,Value,0,"#N/A","#N/A",equals,3d9e398f-4759-418f-8787-f9bac9372b45,"#N/A","#N/A","#N/A",b9f61d11-1995-4b87-9c1b-140340005b42
+cfc1f2be-06e4-43f4-b947-93ef517becbc,Value,Premium,"#N/A","#N/A",equals,cf61c7e7-a131-4d26-bb2e-d4b9246f4a40,"#N/A",Support_Level__c,Configuration Attributes,"#N/A"
+fd43076b-6400-4d5d-9931-b713e645880f,Value,0,"#N/A","#N/A",greater than,3d9e398f-4759-418f-8787-f9bac9372b45,"#N/A","#N/A","#N/A",3469e62d-a723-4b05-831e-9e93f2bf3c3b
+fdbb5ee4-8839-4ea2-aa10-af864653bf8a,Value,Standard,"#N/A","#N/A",equals,186f03cf-38eb-4ca0-8a9f-0dd366615e60,"#N/A",Support_Level__c,Configuration Attributes,"#N/A"

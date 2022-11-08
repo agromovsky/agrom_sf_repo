@@ -1,0 +1,3 @@
+"Guid","Name","SBQQ__Active__c","SBQQ__BinaryChoice__c","SBQQ__ConditionsMet__c","SBQQ__DefaultField__c","SBQQ__DisplayOrder__c","SBQQ__InputField__c","SBQQ__IntegerInput__c","SBQQ__Label__c","SBQQ__Operator__c","SBQQ__ProcessInputCondition__c","SBQQ__ProductField__c","SBQQ__QuoteProcess__c"
+5d674b7f-6c16-462e-b551-d26193414aed,Segment,true,"#N/A",All,"#N/A",2.0,Business_Segment__c,"#N/A",Business Segment?,"#N/A","#N/A","#N/A",35768441-30dd-4e9c-973e-ca6beda9c18b
+9020edbc-183f-4a35-ad7c-61487ff06262,Solution,true,"#N/A",All,"#N/A",1.0,Solution__c,"#N/A",What are you looking for?,equals,"#N/A",Guided_Selling__c,35768441-30dd-4e9c-973e-ca6beda9c18b
