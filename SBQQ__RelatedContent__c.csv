@@ -1,2 +1,11 @@
-"Guid","Name","SBQQ__DisplayOrder__c","SBQQ__ExternalId__c","SBQQ__Product__c","SBQQ__QuoteTemplate__c","SBQQ__Quote__c","SBQQ__Required__c","SBQQ__TemplateSection__c"
-73ff061d-9b2f-464b-a0af-3e446ff042f8,Remote Monitoring Subscription Data Sheet,"#N/A",0155f000000Ogsz,7e43479d-1544-4d40-b4bd-c512523dad70,"#N/A","#N/A",false,"#N/A"
+"Guid","Name","SBQQ__DisplayOrder__c","SBQQ__ExternalId__c","SBQQ__Product__c","SBQQ__Required__c"
+66580c4e-6c20-4ef1-bf03-17f66f33d8d1,Remote Monitoring Subscription Data Sheet,"#N/A",0155f000000Ogsz,"#N/A",false
+67e99ed0-a638-431a-89e7-955734546edb,Remote Monitoring Subscription Data Sheet,"#N/A",0155f000000Ogsz,"#N/A",false
+73ff061d-9b2f-464b-a0af-3e446ff042f8,Remote Monitoring Subscription Data Sheet,"#N/A",0155f000000Ogsz,7e43479d-1544-4d40-b4bd-c512523dad70,false
+94b29027-9d62-4c64-8b87-3f054c382ea2,Remote Monitoring Subscription Data Sheet,"#N/A",0155f000000Ogsz,"#N/A",false
+9cee1aee-2c7e-4e75-9240-a7384151dcfe,Remote Monitoring Subscription Data Sheet,"#N/A",0155f000000Ogsz,"#N/A",false
+a8a08d10-bffe-40aa-b2a7-64846eb3e838,Remote Monitoring Subscription Data Sheet,"#N/A",0155f000000Ogsz,"#N/A",false
+b2964570-7978-41cc-ac91-f54299702b3f,Remote Monitoring Subscription Data Sheet,"#N/A",0155f000000Ogsz,"#N/A",false
+c78bb836-db84-40e1-b37c-0a365ca10a5b,Remote Monitoring Subscription Data Sheet,"#N/A",0155f000000Ogsz,"#N/A",false
+cdbaac13-1543-45f5-a0da-87e4e3ae100a,Remote Monitoring Subscription Data Sheet,"#N/A",0155f000000Ogsz,"#N/A",false
+ec91953d-e269-4d36-97c4-abb07d717a8f,Remote Monitoring Subscription Data Sheet,"#N/A",0155f000000Ogsz,"#N/A",false

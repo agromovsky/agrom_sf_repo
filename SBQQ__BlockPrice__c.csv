@@ -1,3 +1,13 @@
-"Guid","Name","SBQQ__EffectiveDate__c","SBQQ__LowerBound__c","SBQQ__OriginalBlockPrice__c","SBQQ__Price__c","SBQQ__Product__c","SBQQ__QuoteLine__c","SBQQ__UpperBound__c","checkbox1__c"
-1b402301-5b12-4fce-ac9f-f094597a1bf1,1,"#N/A","#N/A","#N/A","#N/A",a4ff8ccc-ae71-4016-b10d-1bdfbe960583,"#N/A","#N/A",false
-29d50d47-a3bc-4f8d-9869-e2e82668aac7,Price Name1,"#N/A","#N/A","#N/A","#N/A",44b3a2d3-6b4f-4b90-892e-d96e6d45ad1f,"#N/A","#N/A",false
+"Guid","Name","SBQQ__EffectiveDate__c","SBQQ__LowerBound__c","SBQQ__OriginalBlockPrice__c","SBQQ__PriceBook2__c","SBQQ__Price__c","SBQQ__Product__c","SBQQ__UpperBound__c","checkbox1__c"
+06109952-f0c8-4d09-9029-e3d546f2ee94,Price Name1,"#N/A","#N/A","#N/A","#N/A","#N/A",7b450d17-2f62-4045-ba1b-38363bbf8e68,"#N/A",false
+14fd284c-8c01-4af6-874b-b2bf219080fa,Price Name1,"#N/A","#N/A","#N/A","#N/A","#N/A",4a620db1-8f88-40b4-be2d-14b21bad75ee,"#N/A",false
+1b402301-5b12-4fce-ac9f-f094597a1bf1,1,"#N/A","#N/A","#N/A","#N/A","#N/A",a4ff8ccc-ae71-4016-b10d-1bdfbe960583,"#N/A",false
+29d50d47-a3bc-4f8d-9869-e2e82668aac7,Price Name1,"#N/A","#N/A","#N/A","#N/A","#N/A",44b3a2d3-6b4f-4b90-892e-d96e6d45ad1f,"#N/A",false
+29f932cd-de07-4ad4-993b-f74a457d9554,1,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",false
+3ded94a5-26cc-4b8a-86c9-3e37182cf5d3,Price Name1,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",false
+403c9c59-69d6-4254-8b26-25a5d2f7497c,1,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",false
+4b44e853-a06f-497e-86be-46f1303d752b,Price Name1,"#N/A","#N/A","#N/A","#N/A","#N/A",b369e68a-1d29-479e-96d9-3b55e4172755,"#N/A",false
+5cf35c44-e6b8-4ef8-9630-5f571cc3be79,1,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",false
+5f880299-a197-4286-b297-a74ec7949330,1,"#N/A","#N/A","#N/A","#N/A","#N/A",5b6f0c9b-e903-4f8b-95c9-f4d5ee5b867c,"#N/A",false
+63fae908-ef07-4b88-acc1-fb4adf2eb3ca,Price Name1,"#N/A","#N/A","#N/A","#N/A","#N/A",773e0e79-37a3-4ab0-9e35-06645dc35b15,"#N/A",false
+a4b1fd42-0d74-421f-8e17-2e8c1669220b,1,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",false

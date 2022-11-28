@@ -1,6 +1,36 @@
 "Guid","Name","SBQQ__Category__c","SBQQ__ConfigurationFieldSet__c","SBQQ__ConfiguredSKU__c","SBQQ__DiscountSchedule__c","SBQQ__DynamicProductFilterFieldSet__c","SBQQ__DynamicProductLookupFieldSet__c","SBQQ__MaxOptionCount__c","SBQQ__MinOptionCount__c","SBQQ__Number__c","SBQQ__OptionSelectionMethod__c"
+05cd6cd9-70ca-4fa8-af8e-1bf478c5481f,Software Licenses,Optional,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",0.0,30.0,"#N/A"
+0d49de58-c949-403b-b5df-5d02e722479c,Support,Core,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",0.0,40.0,"#N/A"
+123c1d00-b26c-4aa2-9594-b681709f0478,Support,Core,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",0.0,40.0,"#N/A"
 195b9559-9422-4651-9a95-4388400b387f,Feature 1,Hardware,"#N/A",44b3a2d3-6b4f-4b90-892e-d96e6d45ad1f,"#N/A",ConfiguratorFilter,ConfiguratorLookup,"#N/A",1.0,123.0,Add
+1a0acc08-d142-4576-ae1f-be3424336d23,Feature 1,Hardware,"#N/A",4a620db1-8f88-40b4-be2d-14b21bad75ee,"#N/A",ConfiguratorFilter,ConfiguratorLookup,"#N/A",1.0,123.0,Add
+1d233311-b0c5-4b3f-af11-f8b78221f802,Support,Core,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",0.0,40.0,"#N/A"
+203085fd-74cd-45ad-8479-b30df978fa3b,Software Licenses,Optional,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",0.0,30.0,"#N/A"
+2a04a429-bc2b-474b-b9de-81ab07ccbd54,Software Licenses,Optional,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",0.0,30.0,"#N/A"
+2a76faf4-e413-450c-9373-e95a6ffebe2f,Accessories,Optional,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",0.0,20.0,"#N/A"
+2aa99614-d7d8-4f22-a1b5-cefea4b7c33c,Support,Core,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",0.0,40.0,"#N/A"
+2b1c96b7-db4d-44ce-b40e-1f6a555361dd,Software Licenses,Optional,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",0.0,30.0,"#N/A"
+2ed9409d-749f-4d0e-95f1-786d0279c3f6,Feature 1,Hardware,"#N/A",773e0e79-37a3-4ab0-9e35-06645dc35b15,"#N/A",ConfiguratorFilter,ConfiguratorLookup,"#N/A",1.0,123.0,Add
+3b9983fa-444c-4d7f-8491-693e760121ca,Support,Core,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",0.0,40.0,"#N/A"
+43095f40-b8b8-42e3-8ee7-ef06fc79b354,Accessories,Optional,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",0.0,20.0,"#N/A"
+4366c561-4beb-453f-b3a9-bec977cc2f78,Accessories,Optional,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",0.0,20.0,"#N/A"
+4a33f367-b20f-490c-9acb-c2985453e600,Hardware,Core,"#N/A","#N/A","#N/A","#N/A","#N/A",1.0,1.0,10.0,"#N/A"
+50234a72-c5fb-4bc5-8f3d-72fc6fc7865e,Hardware,Core,"#N/A","#N/A","#N/A","#N/A","#N/A",1.0,1.0,10.0,"#N/A"
+5f8e492e-746e-48fd-a322-f218382cc26d,Accessories,Optional,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",0.0,20.0,"#N/A"
 6320f82b-e133-4c95-b3bc-e967470910b7,Software Licenses,Optional,"#N/A",e7e6c882-f07d-4645-97bc-a7f419d8f356,"#N/A","#N/A","#N/A","#N/A",0.0,30.0,"#N/A"
+65df7993-c8c7-4679-a6b8-4fc8f8b84152,Feature 1,Hardware,"#N/A",b369e68a-1d29-479e-96d9-3b55e4172755,"#N/A",ConfiguratorFilter,ConfiguratorLookup,"#N/A",1.0,123.0,Add
+7285ab43-711d-43b2-b4bf-b71260c2aaca,Hardware,Core,"#N/A","#N/A","#N/A","#N/A","#N/A",1.0,1.0,10.0,"#N/A"
 7cdccae4-23ef-4066-be95-5be005327c36,Accessories,Optional,"#N/A",e7e6c882-f07d-4645-97bc-a7f419d8f356,"#N/A","#N/A","#N/A","#N/A",0.0,20.0,"#N/A"
+7dbb7c08-9ba5-4a3d-89cb-0c8fd2e66e37,Hardware,Core,"#N/A","#N/A","#N/A","#N/A","#N/A",1.0,1.0,10.0,"#N/A"
+863cf4bb-d3d1-4d4e-ad89-4a7007cf4e73,Hardware,Core,"#N/A","#N/A","#N/A","#N/A","#N/A",1.0,1.0,10.0,"#N/A"
+98082f02-96e3-4f5c-ae1d-219f04a48638,Feature 1,Hardware,"#N/A","#N/A","#N/A",ConfiguratorFilter,ConfiguratorLookup,"#N/A",1.0,123.0,Add
 a09397c4-5c34-488d-9c8e-6b998b465bd3,Support,Core,"#N/A",e7e6c882-f07d-4645-97bc-a7f419d8f356,"#N/A","#N/A","#N/A","#N/A",0.0,40.0,"#N/A"
+a21bcb45-f05c-4ec4-a0a6-a552267f78fe,Software Licenses,Optional,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",0.0,30.0,"#N/A"
+a2ee7eea-d757-42e4-b020-b4a77949f696,Feature 1,Hardware,"#N/A","#N/A","#N/A",ConfiguratorFilter,ConfiguratorLookup,"#N/A",1.0,123.0,Add
+a412e15b-cfe9-4359-9e49-69cf782decff,Accessories,Optional,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",0.0,20.0,"#N/A"
+b49e2bd8-cac7-493a-bbb2-9bb95fc6c3c2,Software Licenses,Optional,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",0.0,30.0,"#N/A"
+be7c2a5c-6d83-408e-bff0-e9b3bb849ebf,Hardware,Core,"#N/A","#N/A","#N/A","#N/A","#N/A",1.0,1.0,10.0,"#N/A"
 e4b3e20d-f902-484a-9517-5bd65b5e6a41,Hardware,Core,"#N/A",e7e6c882-f07d-4645-97bc-a7f419d8f356,"#N/A","#N/A","#N/A",1.0,1.0,10.0,"#N/A"
+e5f49e3f-5b4d-4453-bc38-4948786b108b,Support,Core,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",0.0,40.0,"#N/A"
+e7e4c3de-1deb-49bb-9a49-d3373425031c,Accessories,Optional,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",0.0,20.0,"#N/A"
+f97911a0-de2b-4012-8070-bac2adfcbbae,Feature 1,Hardware,"#N/A",7b450d17-2f62-4045-ba1b-38363bbf8e68,"#N/A",ConfiguratorFilter,ConfiguratorLookup,"#N/A",1.0,123.0,Add
