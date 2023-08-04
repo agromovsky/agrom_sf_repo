@@ -1,53 +1,53 @@
-"Guid","AccountNumber","AccountSource","Active__c","AnnualRevenue","BillingCity","BillingCountry","BillingGeocodeAccuracy","BillingLatitude","BillingLongitude","BillingPostalCode","BillingState","BillingStreet","CustomerPriority__c","Description","DunsNumber","Fax","Industry","Jigsaw","NaicsCode","NaicsDesc","Name","NumberOfEmployees","NumberofLocations__c","Ownership","ParentId","Phone","Rating","SBQQ__AssetQuantitiesCombined__c","SBQQ__CoTermedContractsCombined__c","SBQQ__CoTerminationEvent__c","SBQQ__ContractCoTermination__c","SBQQ__IgnoreParentContractedPrices__c","SBQQ__PreserveBundle__c","SBQQ__PriceHoldEnd__c","SBQQ__RenewalModel__c","SBQQ__RenewalPricingMethod__c","SBQQ__TaxExempt__c","SLAExpirationDate__c","SLASerialNumber__c","SLA__c","ShippingCity","ShippingCountry","ShippingGeocodeAccuracy","ShippingLatitude","ShippingLongitude","ShippingPostalCode","ShippingState","ShippingStreet","Sic","SicDesc","Site","TickerSymbol","Tradestyle","Type","UpsellOpportunity__c","Website","YearStarted"
-02627258-039f-4445-a09c-eba820e05339,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",TemichAccount,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",false,false,"#N/A",Never,false,true,"#N/A","#N/A",Same,No,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-0651f388-5293-4195-b0c0-1d2f88f480be,CC978213,"#N/A",Yes,3.0E7,Mountain View,"#N/A","#N/A","#N/A","#N/A","#N/A",CA,"345 Shoreline Park
+Guid,Name,Type,ParentId,BillingStreet,BillingCity,BillingState,BillingPostalCode,BillingCountry,BillingLatitude,BillingLongitude,BillingGeocodeAccuracy,ShippingStreet,ShippingCity,ShippingState,ShippingPostalCode,ShippingCountry,ShippingLatitude,ShippingLongitude,ShippingGeocodeAccuracy,Phone,Fax,AccountNumber,Website,Sic,Industry,AnnualRevenue,NumberOfEmployees,Ownership,TickerSymbol,Description,Rating,Site,OwnerId,Jigsaw,AccountSource,DunsNumber,Tradestyle,NaicsCode,NaicsDesc,YearStarted,SicDesc,DandbCompanyId,CustomerPriority__c,SLA__c,Active__c,NumberofLocations__c,UpsellOpportunity__c,SLASerialNumber__c,SLAExpirationDate__c,SBQQ__AssetQuantitiesCombined__c,SBQQ__CoTermedContractsCombined__c,SBQQ__ContractCoTermination__c,SBQQ__DefaultOpportunity__c,SBQQ__IgnoreParentContractedPrices__c,SBQQ__PreserveBundle__c,SBQQ__PriceHoldEnd__c,SBQQ__RenewalModel__c,SBQQ__RenewalPricingMethod__c,SBQQ__TaxExempt__c,SBQQ__CoTerminationEvent__c
+02627258-039f-4445-a09c-eba820e05339,TemichAccount,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,false,false,Never,,false,true,,,Same,No,
+0651f388-5293-4195-b0c0-1d2f88f480be,GenePoint,Customer - Channel,,"345 Shoreline Park
 Mountain View, CA 94043
-USA",Low,Genomics company engaged in mapping and sequencing of the human genome and developing gene-based drugs,"#N/A",(650) 867-9895,Biotechnology,"#N/A","#N/A","#N/A",GenePoint,265,1.0,Private,"#N/A",(650) 867-3450,Cold,false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2022-03-27,7324,Bronze,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","345 Shoreline Park
+USA",Mountain View,CA,,,,,,"345 Shoreline Park
 Mountain View, CA 94043
-USA",3712,"#N/A","#N/A","#N/A","#N/A",Customer - Channel,Yes,www.genepoint.com,"#N/A"
-0eb5d846-a30d-4d89-a6f3-a27a8288741e,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Chemicals,"#N/A","#N/A","#N/A",Tembl4 RESPECT,"#N/A","#N/A",Public,d824bf99-4b85-4ede-9d4f-ae46a0d908c7,"#N/A",Hot,false,false,"#N/A",Never,false,true,"#N/A","#N/A",Same,No,"#N/A","#N/A",Gold,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Technology Partner,"#N/A",http://localhost,"#N/A"
-0ef6dc69-b6a3-472f-8860-01818a5d37a9,CC947211,"#N/A",Yes,9.5E8,Portland,"#N/A","#N/A","#N/A","#N/A","#N/A",OR,"620 SW 5th Avenue Suite 400
+USA",,,,,,,,(650) 867-3450,(650) 867-9895,CC978213,www.genepoint.com,3712,Biotechnology,3.0E7,265,Private,,Genomics company engaged in mapping and sequencing of the human genome and developing gene-based drugs,Cold,,,,,,,,,,,,Low,Bronze,Yes,1.0,Yes,7324,2022-03-27,false,false,,,false,false,,,,,
+0eb5d846-a30d-4d89-a6f3-a27a8288741e,Tembl4 RESPECT,Technology Partner,,,,,,,,,,,,,,,,,,,,,http://localhost,,Chemicals,,,Public,,,Hot,,,,,,,,,,,,,Gold,,,,,,false,false,Never,,false,true,,,Same,No,
+0ef6dc69-b6a3-472f-8860-01818a5d37a9,Express Logistics and Transport,Customer - Channel,,"620 SW 5th Avenue Suite 400
 Portland, Oregon 97204
-United States",Medium,Commerical logistics and transportation company.,"#N/A",(503) 421-7801,Transportation,"#N/A","#N/A","#N/A",Express Logistics and Transport,12300,150.0,Public,"#N/A",(503) 421-7800,Cold,false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2022-03-27,4724,Platinum,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","620 SW 5th Avenue Suite 400
+United States",Portland,OR,,,,,,"620 SW 5th Avenue Suite 400
 Portland, Oregon 97204
-United States",8742,"#N/A","#N/A",EXLT,"#N/A",Customer - Channel,Maybe,www.expressl&t.net,"#N/A"
-0f3894ed-2871-4960-ad59-93b72668afae,CD355119-A,"#N/A",Yes,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",UK,"Kings Park, 17th Avenue, Team Valley Trading Estate,
+United States",,,,,,,,(503) 421-7800,(503) 421-7801,CC947211,www.expressl&t.net,8742,Transportation,9.5E8,12300,Public,EXLT,Commerical logistics and transportation company.,Cold,,,,,,,,,,,,Medium,Platinum,Yes,150.0,Maybe,4724,2022-03-27,false,false,,,false,false,,,,,
+0f3894ed-2871-4960-ad59-93b72668afae,"United Oil & Gas, UK",Customer - Direct,,"Kings Park, 17th Avenue, Team Valley Trading Estate,
 Gateshead, Tyne and Wear NE26 3HS
-United Kingdom",High,"#N/A","#N/A",+44 191 4956620,Energy,"#N/A","#N/A","#N/A","United Oil & Gas, UK",24000,34.0,Public,"#N/A",+44 191 4956203,"#N/A",false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2021-09-24,3479,Platinum,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","Kings Park, 17th Avenue, Team Valley Trading Estate,
+United Kingdom",,UK,,,,,,"Kings Park, 17th Avenue, Team Valley Trading Estate,
 Gateshead, Tyne and Wear NE26 3HS
-United Kingdom",4437,"#N/A","#N/A",UOS,"#N/A",Customer - Direct,No,http://www.uos.com,"#N/A"
-31029aea-e61d-403c-9ba8-c694d7006857,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",artem,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",false,false,"#N/A",Never,false,true,"#N/A","#N/A",Same,No,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-3e83eb66-1c25-4a86-95f0-8edfd7690cdb,CD439877,"#N/A",Yes,5.0E8,Chicago,"#N/A","#N/A","#N/A","#N/A","#N/A",IL,"2334 N. Michigan Avenue, Suite 1500
-Chicago, IL 60601, USA",High,"Chain of hotels and resorts across the US, UK, Eastern Europe, Japan, and SE Asia.","#N/A",(312) 596-1500,Hospitality,"#N/A","#N/A","#N/A",Grand Hotels & Resorts Ltd,5600,57.0,Public,"#N/A",(312) 596-1000,Warm,false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2022-03-27,5572,Gold,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","2334 N. Michigan Avenue, Suite 1500
-Chicago, IL 60601, USA",2268,"#N/A","#N/A",GHTL,"#N/A",Customer - Direct,Yes,www.grandhotels.com,"#N/A"
-4d12ad03-14cd-4667-9c5c-d977e19ffb98,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",test account,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",false,false,"#N/A",Never,false,true,"#N/A","#N/A",Same,No,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-5aacd691-5413-45cf-9749-8361b38c559c,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Hello My Friend,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",false,false,"#N/A",Never,false,true,"#N/A","#N/A",Same,No,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-9501a703-d5cf-44e7-a931-0bc785826a67,CD355120-B,"#N/A",Yes,"#N/A",Singapore,"#N/A","#N/A","#N/A","#N/A","#N/A",Singapore,"9 Tagore Lane
+United Kingdom",,,,,,,,+44 191 4956203,+44 191 4956620,CD355119-A,http://www.uos.com,4437,Energy,,24000,Public,UOS,,,,,,,,,,,,,,High,Platinum,Yes,34.0,No,3479,2021-09-24,false,false,,,false,false,,,,,
+31029aea-e61d-403c-9ba8-c694d7006857,artem,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,false,false,Never,,false,true,,,Same,No,
+3e83eb66-1c25-4a86-95f0-8edfd7690cdb,Grand Hotels & Resorts Ltd,Customer - Direct,,"2334 N. Michigan Avenue, Suite 1500
+Chicago, IL 60601, USA",Chicago,IL,,,,,,"2334 N. Michigan Avenue, Suite 1500
+Chicago, IL 60601, USA",,,,,,,,(312) 596-1000,(312) 596-1500,CD439877,www.grandhotels.com,2268,Hospitality,5.0E8,5600,Public,GHTL,"Chain of hotels and resorts across the US, UK, Eastern Europe, Japan, and SE Asia.",Warm,,,,,,,,,,,,High,Gold,Yes,57.0,Yes,5572,2022-03-27,false,false,,,false,false,,,,,
+4d12ad03-14cd-4667-9c5c-d977e19ffb98,test account,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,false,false,Never,,false,true,,,Same,No,
+5aacd691-5413-45cf-9749-8361b38c559c,Hello My Friend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,false,false,Never,,false,true,,,Same,No,
+9501a703-d5cf-44e7-a931-0bc785826a67,"United Oil & Gas, Singapore",Customer - Direct,,"9 Tagore Lane
 Singapore, Singapore 787472
-Singapore",High,"#N/A","#N/A",(650) 450-8820,Energy,"#N/A","#N/A","#N/A","United Oil & Gas, Singapore",3000,6.0,Public,"#N/A",(650) 450-8810,"#N/A",false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2022-03-27,2457,Platinum,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","9 Tagore Lane
+Singapore",Singapore,Singapore,,,,,,"9 Tagore Lane
 Singapore, Singapore 787472
-Singapore",4437,"#N/A","#N/A",UOS,"#N/A",Customer - Direct,Maybe,http://www.uos.com,"#N/A"
-a22b4c09-c382-44af-8be0-f7ac1cab73cf,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",super super new,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",false,false,"#N/A",Never,false,true,"#N/A","#N/A",Same,No,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-a2e91a58-52b2-4c62-bd98-6fb82aad4678,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Sample Account for Entitlements,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-bee66984-8eb2-4808-8e01-0136527498a6,CD355118,"#N/A",Yes,5.6E9,New York,"#N/A","#N/A","#N/A","#N/A","#N/A",NY,"1301 Avenue of the Americas 
+Singapore",,,,,,,,(650) 450-8810,(650) 450-8820,CD355120-B,http://www.uos.com,4437,Energy,,3000,Public,UOS,,,,,,,,,,,,,,High,Platinum,Yes,6.0,Maybe,2457,2022-03-27,false,false,,,false,false,,,,,
+a22b4c09-c382-44af-8be0-f7ac1cab73cf,super super new,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,false,false,Never,,false,true,,,Same,No,
+a2e91a58-52b2-4c62-bd98-6fb82aad4678,Sample Account for Entitlements,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,false,false,,,false,false,,,,,
+bee66984-8eb2-4808-8e01-0136527498a6,United Oil & Gas Corp.,Customer - Direct,,"1301 Avenue of the Americas 
 New York, NY 10019
-USA",High,World's third largest oil and gas company.,"#N/A",(212) 842-5501,Energy,"#N/A","#N/A","#N/A",United Oil & Gas Corp.,145000,955.0,Public,"#N/A",(212) 842-5500,Hot,false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2022-03-27,6654,Platinum,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","1301 Avenue of the Americas 
+USA",New York,NY,,,,,,"1301 Avenue of the Americas 
 New York, NY 10019
-USA",4437,"#N/A","#N/A",UOS,"#N/A",Customer - Direct,Yes,http://www.uos.com,"#N/A"
-bf9c2d7f-07f6-4036-870b-e9f42ec4236b,CD656092,"#N/A","#N/A",3.5E8,Burlington,USA,"#N/A","#N/A","#N/A",27215,NC,525 S. Lexington Ave,"#N/A","#N/A","#N/A",(336) 222-8000,Apparel,"#N/A","#N/A","#N/A",Burlington Textiles Corp of America,9000,6.0,Public,"#N/A",(336) 222-7000,Warm,false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2021-09-24,5367,Silver,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",546732,"#N/A","#N/A",BTXT,"#N/A",Customer - Direct,Maybe,www.burlington.com,"#N/A"
-c1e01bc2-9d82-4001-b609-ce391f7a7c94,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",super new,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",false,false,"#N/A",Never,false,true,"#N/A","#N/A",Same,No,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-c2dbf0ec-7602-46da-a95c-824df8350646,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",new,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",false,false,"#N/A",Never,false,true,"#N/A","#N/A",Same,No,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-c865a70e-08d7-4d1f-82a2-19d9626c5ff4,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",test,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",false,false,"#N/A",Never,false,true,"#N/A","#N/A",Same,No,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-d4936d58-312c-43fa-91cb-2d0e4f281bbb,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",88888,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",false,false,"#N/A",Never,false,true,"#N/A","#N/A",Same,No,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-d824bf99-4b85-4ede-9d4f-ae46a0d908c7,CD736025,"#N/A",Yes,"#N/A",Tucson,"#N/A","#N/A","#N/A","#N/A","#N/A",AZ,"888 N Euclid 
+USA",,,,,,,,(212) 842-5500,(212) 842-5501,CD355118,http://www.uos.com,4437,Energy,5.6E9,145000,Public,UOS,World's third largest oil and gas company.,Hot,,,,,,,,,,,,High,Platinum,Yes,955.0,Yes,6654,2022-03-27,false,false,,,false,false,,,,,
+bf9c2d7f-07f6-4036-870b-e9f42ec4236b,Burlington Textiles Corp of America,Customer - Direct,,525 S. Lexington Ave,Burlington,NC,27215,USA,,,,,,,,,,,,(336) 222-7000,(336) 222-8000,CD656092,www.burlington.com,546732,Apparel,3.5E8,9000,Public,BTXT,,Warm,,,,,,,,,,,,,Silver,,6.0,Maybe,5367,2021-09-24,false,false,,,false,false,,,,,
+c1e01bc2-9d82-4001-b609-ce391f7a7c94,super new,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,false,false,Never,,false,true,,,Same,No,
+c2dbf0ec-7602-46da-a95c-824df8350646,new,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,false,false,Never,,false,true,,,Same,No,
+c865a70e-08d7-4d1f-82a2-19d9626c5ff4,test,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,false,false,Never,,false,true,,,Same,No,
+d4936d58-312c-43fa-91cb-2d0e4f281bbb,88888,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,false,false,Never,,false,true,,,Same,No,
+d824bf99-4b85-4ede-9d4f-ae46a0d908c7,University of Arizona,Customer - Direct,,"888 N Euclid 
 Hallis Center, Room 501
 Tucson, AZ 85721
-United States123",Medium,"Leading123 university in AZ offering undergraduate and graduate programs in arts and humanities, pure sciences, engineering, business, and medicine.","#N/A",(520) 773-9060,Education,"#N/A","#N/A","#N/A",University of Arizona,39000,3.0,Other,"#N/A",(520) 773-9050,Warm,false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2021-09-24,8350,Gold,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","888 N Euclid 
+United States123",Tucson,AZ,,,,,,"888 N Euclid 
 Hallis Center, Room 501
 Tucson, AZ 85721
-United States",7321,"#N/A","#N/A","#N/A","#N/A",Customer - Direct,Yes,www.universityofarizona.com,"#N/A"
-f4dc2bde-54a6-4b56-ba9d-21027ea26e16,CD451796,"#N/A",Yes,1.39E8,Austin,"#N/A","#N/A","#N/A","#N/A","#N/A",TX,"312 Constitution Place
+United States",,,,,,,,(520) 773-9050,(520) 773-9060,CD736025,www.universityofarizona.com,7321,Education,,39000,Other,,"Leading123 university in AZ offering undergraduate and graduate programs in arts and humanities, pure sciences, engineering, business, and medicine.",Warm,,,,,,,,,,,,Medium,Gold,Yes,3.0,Yes,8350,2021-09-24,false,false,,,false,false,,,,,
+f4dc2bde-54a6-4b56-ba9d-21027ea26e16,Edge Communications,Customer - Direct,,"312 Constitution Place
 Austin, TX 78767
-USA",Medium,"Edge, founded in 1998, is a start-up based in Austin, TX. The company designs and manufactures a device to convert music from one digital format to another. Edge sells its product through retailers and its own website.","#N/A",(512) 757-9000,Electronics,"#N/A","#N/A","#N/A",Edge Communications,1000,2.0,Public,"#N/A",(512) 757-6000,Hot,false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2021-09-24,2657,Silver,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","312 Constitution Place
+USA",Austin,TX,,,,,,"312 Constitution Place
 Austin, TX 78767
-USA",6576,"#N/A","#N/A",EDGE,"#N/A",Customer - Direct,Maybe,http://edgecomm.com,"#N/A"
+USA",,,,,,,,(512) 757-6000,(512) 757-9000,CD451796,http://edgecomm.com,6576,Electronics,1.39E8,1000,Public,EDGE,"Edge, founded in 1998, is a start-up based in Austin, TX. The company designs and manufactures a device to convert music from one digital format to another. Edge sells its product through retailers and its own website.",Hot,,,,,,,,,,,,Medium,Silver,Yes,2.0,Maybe,2657,2021-09-24,false,false,,,false,false,,,,,
