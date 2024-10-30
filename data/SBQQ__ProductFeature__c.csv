@@ -1,0 +1,5 @@
+Guid,Name,SBQQ__Category__c,SBQQ__ConfigurationFieldSet__c,SBQQ__ConfiguredSKU__c,SBQQ__DiscountSchedule__c,SBQQ__DynamicProductFilterFieldSet__c,SBQQ__DynamicProductLookupFieldSet__c,SBQQ__MaxOptionCount__c,SBQQ__MinOptionCount__c,SBQQ__Number__c,SBQQ__OptionSelectionMethod__c
+f0937dd7-3ee0-41fd-8d84-a40f6e5b4f2f,Phone,#N/A,#N/A,a60272c5-0cc9-42f9-8e93-def0aa9d1014,#N/A,#N/A,#N/A,1.0,1.0,100.0,#N/A
+b9382522-6b6d-4c27-ae1e-6b4ea8eb7751,Internet,#N/A,#N/A,a60272c5-0cc9-42f9-8e93-def0aa9d1014,#N/A,#N/A,#N/A,1.0,1.0,200.0,#N/A
+6fb3887d-e21f-4c60-a9c7-733c9ab81c99,PFeature1,#N/A,#N/A,921e3854-1fa1-4dba-897e-9f09ec29ccaa,#N/A,#N/A,#N/A,#N/A,1.0,111.0,#N/A
+d1f48c9b-e4d1-4e61-a86c-ca600ffb2aa7,TV,#N/A,#N/A,a60272c5-0cc9-42f9-8e93-def0aa9d1014,#N/A,#N/A,#N/A,1.0,1.0,300.0,#N/A
