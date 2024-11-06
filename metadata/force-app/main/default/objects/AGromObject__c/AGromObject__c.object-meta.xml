@@ -158,7 +158,7 @@
         <label>AGromObhect Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>AGromObjectss</pluralLabel>
+    <pluralLabel>AGromObjectss1</pluralLabel>
     <searchLayouts></searchLayouts>
     <sharingModel>ControlledByParent</sharingModel>
     <visibility>Public</visibility>
