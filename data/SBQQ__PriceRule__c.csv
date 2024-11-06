@@ -2,6 +2,6 @@ Guid,Name,SBQQ__Active__c,SBQQ__AdvancedCondition__c,SBQQ__ConditionsMet__c,SBQQ
 fa3e15b6-640d-42dd-9f8d-ce8cfed21128,one,false,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Configurator
 a9ecc891-fdcb-4e0c-bd36-8a54fbb8ff7e,two,false,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Configurator
 5a12c2aa-b17a-457e-bbdc-a6b5aa3c8f60,three,false,#N/A,Any,#N/A,On Calculate,#N/A,#N/A,Configurator
-f25c5fdc-ad19-403c-b8a2-69229e86c5c2,three,false,#N/A,Any,#N/A,On Calculate,#N/A,#N/A,Configurator
-bd1d0847-b4a3-4e40-b7a0-9ab0b80e0f3d,test_rule,false,#N/A,All,Save,On Calculate,#N/A,#N/A,Calculator
+f25c5fdc-ad19-403c-b8a2-69229e86c5c2,three - daniel,false,#N/A,Any,#N/A,On Calculate,#N/A,#N/A,Configurator
+bd1d0847-b4a3-4e40-b7a0-9ab0b80e0f3d,test_rule_11121231,false,#N/A,All,Save,On Calculate,#N/A,#N/A,Calculator
 b7b129fc-c5d3-49ee-a3f7-a2ad672283bd,one,false,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Configurator
