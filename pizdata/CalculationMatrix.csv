@@ -1,0 +1,13 @@
+Guid,Name,CurrencyIsoCode,Description,GroupKey,SubGroupKey,Type,UniqueName,Namespace,DecisionMatrixType,UsageType
+bfcfd528-a83e-423c-8386-f47c415f253b,groupedMatrix,USD,#N/A,key,#N/A,Grouped,groupedMatrix,#N/A,DecisionMatrix,Bre
+34fc4bc1-498d-4fe6-a1a8-4f626ab182d7,ArtemDM,USD,#N/A,#N/A,#N/A,Standard,ArtemDM,#N/A,DecisionMatrix,Bre
+d273258a-5b5c-4ee5-925a-aba6c26ab677,Attribute Discount Entries,USD,Attribute Based Adjustment Decision Table,#N/A,#N/A,#N/A,Attribute Discount Entries,#N/A,DecisionTable,DefaultPricing
+c79f3f90-f49a-4c9f-a5ef-73d52eebbb8b,Price Book Entries V2,USD,Price Book Entry Decision Table V2,#N/A,#N/A,#N/A,Price Book Entries V2,#N/A,DecisionTable,DefaultPricing
+54ec36a3-2a29-44e1-b618-3f5e1ed1ecfa,Volume Discount Entries,USD,Price Adjustment Tier Decision Table,#N/A,#N/A,#N/A,Volume Discount Entries,#N/A,DecisionTable,DefaultPricing
+e041d2cb-52ed-4dbd-b754-cf54e5211df7,Tiered Adjustment Entries,USD,Tiered Adjustment Decision Table,#N/A,#N/A,#N/A,Tiered Adjustment Entries,#N/A,DecisionTable,DefaultPricing
+35ab0b6d-1e39-4a39-9e29-b754ac187079,Bundle Based Adjustment Entries,USD,Bundle Based Adjustment Decision Table,#N/A,#N/A,#N/A,Bundle Based Adjustment Entries,#N/A,DecisionTable,DefaultPricing
+89628b96-85db-4125-a74b-fa5ce780d1aa,Derived Pricing Entries,USD,Derived Pricing Entries Decision Table,#N/A,#N/A,#N/A,Derived Pricing Entries,#N/A,DecisionTable,PricingDiscovery
+d8da76ef-a53d-430b-b29a-0be4744ed466,Contract Pricing Entries,USD,Contract Pricing Entries Decision Table,#N/A,#N/A,#N/A,Contract Pricing Entries,#N/A,DecisionTable,DefaultPricing
+553091ad-3bb8-4218-a8ad-f4aa8838c454,Asset Action Source Entries V2,USD,Asset Action Source Entries Decision Table V2,#N/A,#N/A,#N/A,Asset Action Source Entries V2,#N/A,DecisionTable,PricingDiscovery
+2b79a807-1599-414a-aa8e-19422f5f2c3e,Contract Pricing Volume Tiers,USD,A table that stores the contract item price adjustment tiers that are used in volume calculations.,#N/A,#N/A,#N/A,Contract Pricing Volume Tiers,#N/A,DecisionTable,DefaultPricing
+0b6b682a-a950-4282-82c5-1c93d8894769,Contract Pricing  Adjustment Tiers,USD,A table that stores the contract item price adjustment tiers that are used in slab calculations.,#N/A,#N/A,#N/A,Contract Pricing  Adjustment Tiers,#N/A,DecisionTable,DefaultPricing
