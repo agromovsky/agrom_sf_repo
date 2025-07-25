@@ -1,0 +1,14 @@
+Guid,Name,CurrencyIsoCode,CalculationMatrixVersionId,StartDateTime,EndDateTime,InputData,OutputData,Namespace
+71db2286-4037-463f-bcec-f3ff9250b6dc,a5ee7692f2536c453d9da581c6dafd6b,USD,08e8b07c-4acd-4021-bc1f-c914c602eb8e,#N/A,#N/A,"{
+  ""output"": ""333"",
+  ""input"": ""111""
+}","{
+  ""output2"": ""555""
+}",#N/A
+7a862e78-c641-49a2-88f0-86ecb7ff89ae,2bb0ecb42df4776c45e74195961a48c5,USD,d2d3b3c4-e1a5-46f7-a627-0fea5f874f88,#N/A,#N/A,"{
+  ""Column2"": ""111"",
+  ""Column3"": ""111"",
+  ""Column1"": ""111""
+}","{
+  ""Column4"": ""111""
+}",#N/A
