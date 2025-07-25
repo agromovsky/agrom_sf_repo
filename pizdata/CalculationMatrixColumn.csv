@@ -1,0 +1,8 @@
+Guid,Name,CurrencyIsoCode,CalculationMatrixId,ApiName,ColumnType,DataType,DisplaySequence,RangeValues,IsWildcardColumn,WildcardColumnValue,Namespace
+12f3ed04-6f2f-4a78-aedf-7f8d736766c7,output2,USD,bfcfd528-a83e-423c-8386-f47c415f253b,output2,Output,Text,3,#N/A,false,#N/A,#N/A
+9a0a5117-aa3d-4544-8d1a-084876fbe343,Column4,USD,34fc4bc1-498d-4fe6-a1a8-4f626ab182d7,Column4,Output,Text,4,#N/A,false,#N/A,#N/A
+b53e4694-64ac-4848-ae4f-07d4b4f64863,output,USD,bfcfd528-a83e-423c-8386-f47c415f253b,output,Input,Text,2,#N/A,false,#N/A,#N/A
+7a54c7f3-7818-4dbc-9c79-aa8126ef5a60,Column2,USD,34fc4bc1-498d-4fe6-a1a8-4f626ab182d7,Column2,Input,Text,2,#N/A,false,#N/A,#N/A
+14aafa1c-3ef7-4a6e-8090-543a91745abb,input,USD,bfcfd528-a83e-423c-8386-f47c415f253b,input,Input,Text,1,#N/A,false,#N/A,#N/A
+194fdc9b-88b8-46ad-b6f4-da16d8ae747d,Column1,USD,34fc4bc1-498d-4fe6-a1a8-4f626ab182d7,Column1,Input,Text,1,#N/A,false,#N/A,#N/A
+a2c8d8f4-441c-4023-beee-9c45945d7c43,Column3,USD,34fc4bc1-498d-4fe6-a1a8-4f626ab182d7,Column3,Input,Text,3,#N/A,false,#N/A,#N/A
